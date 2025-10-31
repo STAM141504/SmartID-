@@ -1,2 +1,2 @@
 # SmartID-
-SmartID est une plateforme de dénombrement intelligent et de numérisation documentaire pour la Commune de Mont-Ngafula. Le projet vise à moderniser la gestion des documents administratifs locaux. SmartID inclut également la numérisation sécurisée de diplômes. SmartID intègre la numérisation et la gestion sécurisée de bulletins scolaires. etc.
+Plateforme SmartID — Dénombrement intelligent et numérisation des documents administratifs, diplômes, bulletins et dossiers médicaux pour la Commune de Mont-Ngafula (Hedera Africa Hackathon 2025).
